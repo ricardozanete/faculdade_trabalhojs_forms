@@ -2,7 +2,7 @@
 <h1 align="center">Formulario de Cadastro</h1>
 
 ## Formulario de Cadastro de e-mail
-<p align="center"><img src="./Captura de Tela 2024-05-06 às 15.41.34.png" alt="Logo do projeto"/></p>
+<p align="center"><img src="./img/Captura de Tela 2024-05-06 às 15.41.34.png" alt="Logo do projeto"/></p>
 
 ## Descrição
 O formulário tem como objetivo coletar informações do usuário para o cadastro de um novo email, permitindo a inclusão dos campos obrigatórios <br>
